@@ -6,3 +6,10 @@ For:
 * USB Fans
 * 112 volt Lighting
 * And more!
+
+
+
+
+
+# OH WAIT THIS ALREADY EXISTS:
+https://github.com/naztronaut/RaspberryPi-RGBW-Control
